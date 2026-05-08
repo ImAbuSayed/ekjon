@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ekjon
+
+This log tracks the cryptographic history and versioning for the song **Ekjon** (ekjon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:37:00.198370 | `v1` | `daead85c2735bb3d3884483df8c01668b47222568dbbc3d5253f0a021e21ed70` | `daead85c2735bb3d3884483df8c01668b47222568dbbc3d5253f0a021e21ed70` | `2026-05-08_ekjon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
